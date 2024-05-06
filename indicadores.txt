@@ -1,0 +1,17 @@
+GQC
+'Hotline',
+'Conformidades – PCF',
+'SEC - Scorecard Embraer x CIL – Customer Item List',
+'Quality Plan',
+'Health Monitoring',
+'Additional Flights',
+'Itens do Obeya, Corrective Action e CNQ',
+
+GQX
+'SQDC',
+'CAT',
+ 'CNQ',
+ 'SEC x CIL',
+ 'GATE',
+ 'Health Monitoring',
+'Hotline',
